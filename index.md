@@ -20,7 +20,7 @@ It has other unique feature named "Encryption"🔐.
 If you Type an message to your GFriend �
 MESSAGE "Hello i love u " it automatically Encrypted like this 
 "yqUTrjdl2M3+pjNdWq2So/rdR186810X1mBaiez1/hQ=" if any one spy your whatsapp using "web.whatsapp.com" they can only see the Encrypted text. But if use web.whatsapp or normal you can't see the original text . We recommended use mod whatsapp to see. This Keyboard has a another feature named "Xtex". It is a feature based on Morse code . It will require camera permission. This keyboard Support Text to speech option without Google's Help . This Keyboard has many features for the future .So donate to the project becuase no ads are here . And no Watermark. It has a widget based on (HID) ui and the widget will show new memojies and Ads . if you like this keyboard support and share and join for future development... 
-Development and Downloads👇
+Development and Download
 open://github.com/Quarcel/ikeyboard
 
 
