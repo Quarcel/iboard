@@ -17,11 +17,11 @@ Type5. Like this, this is a uniqie option on ikeyboard. ikeyboard has other opti
 This Keyboard supports  Latin American English and Portuguese (brasil and Portugal), Norwegian and spanish only...But You Can Add Additional languages through installiination. Download your language Dictionary File (.dic)Format and and Download (.suit,.font,.ttf)Files Formats  for Font This Keyboard has inbuild lock option to Protect Privacy . This lock looks like ios 14 lock 🔒and it support Finger print , Face lock  and pin only. This Keyboard doesn't use any Google Services... This keyboard have an inbuild search me.me search service for Meme 's .This Keyboard Have inbuild grammer settings ,You can modify Grammer settings like Grammerly.if you type a phone number like ("call://+851 8055805501") it automatically Open a pop-up and ask the name if you type any name on it ans click the send button it Automatically Send as a (.vcf) File.
 If you long press on this button 👉 (@)it automatically open an email send option.
 It has other unique feature named "Encryption"🔐.
-If you Type an message to your GFriend �
+If you Type an message to your GFriend 
 MESSAGE "Hello i love u " it automatically Encrypted like this 
 "yqUTrjdl2M3+pjNdWq2So/rdR186810X1mBaiez1/hQ=" if any one spy your whatsapp using "web.whatsapp.com" they can only see the Encrypted text. But if use web.whatsapp or normal you can't see the original text . We recommended use mod whatsapp to see. This Keyboard has a another feature named "Xtex". It is a feature based on Morse code . It will require camera permission. This keyboard Support Text to speech option without Google's Help . This Keyboard has many features for the future .So donate to the project becuase no ads are here . And no Watermark. It has a widget based on (HID) ui and the widget will show new memojies and Ads . if you like this keyboard support and share and join for future development... 
 Development and Download
 open://github.com/Quarcel/ikeyboard
 
 
-                           #©2021 Quarcel Foundation.All Rights are Reserved.#
+                           ©2021 Quarcel Foundation.All Rights are Reserved.
